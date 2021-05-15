@@ -42,3 +42,5 @@ $ kubectl describe node
 
 - [部署 Kubernetes Dashboard](https://github.com/maguowei/k8s-cookbook#%E9%83%A8%E7%BD%B2-kubernetes-dashboard)
 - [Helm 的使用](https://github.com/maguowei/k8s-cookbook#helm)
+- [Mac 安装 K8s](https://www.jianshu.com/p/da56b87ddf18)
+- [解决访问raw.githubusercontent.com出现refused拒绝连接错误](https://blog.searchinfogo.com/2021/01/27/github-connection-refused/)
